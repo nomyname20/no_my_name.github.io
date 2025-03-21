@@ -1,0 +1,116 @@
+no_my_name.github.io
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>BuiAnh IT</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+		<meta name="description" content="Bui Tuan Anh CV, IT system & network engineer, website designer">
+		<meta name="keywords" content="Bui Tuan Anh IT, Tuan Anh IT, It engineer, it frondend, Bui Tuan Anh CV, network engineer, system engineer">
+		<meta name="author" content="BuiAnh">
+		<script src="https://kit.fontawesome.com/be03576fda.js" crossorigin="anonymous"></script>
+
+	</head>
+	<body>
+		<header id="main-header">
+			<div class="bao-vien">
+				<div class="main-logo">
+					<h1><span>Tuan</span> Anh</h1>
+					<p class="logo-title">IT Engineer & Website Administrator</p>
+				</div>
+
+				<nav class="main-nav">
+					<ul>
+						<li><a href="/index.html" class="nav-clicked">Home</a></li>
+						<li><a href="/cv.html">CV</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		<div class="clear"></div>
+		<section id="main-section">
+			<div class="bao-vien">
+				<div class="container home-grid">
+					<div class="image-logo">
+						<img class="profile-pic" src="img/profile.jpg" alt=""/>
+					</div>
+					<div class="media-hidden">
+						<h3 class="text-xxl text-color">Hello,</h3>
+						<p class="text-lg text-color">I'm available to work.</p>
+						<p class="margin-top">Mục tiêu của tôi là tìm được một vị trí công việc thích hợp để có thể
+							phát huy và áp dụng kiến thức, thể hiện năng lực của bản thân. Áp dụng những kỹ năng đã được đào tạo và
+							không ngừng rèn luyện những kỹ năng mới để giải quyết công việc một cách hiệu quả nhất.</p>
+						<a href="/cv.html" class="btn small-btn margin-top">My CV</a>
+					</div>
+
+					<div class="media-center">
+						<ul>
+							<li><p class="text-color">Available for:</p></li>
+							<li><p>Website Administrator</p></li>
+							<li><p>Frontdend Developer</p></li>
+							<li><p class="clear-justify">System & Network Engineer</p></li>
+							<li><p>IT Helpdesk</p></li>
+						</ul>
+						<ul>
+							<li><p class="text-color">Website:</p></li>
+							<li><a href="https://buianh1995.github.io" target="_blank"><p>buianh1995.github.io</p></a></li>
+						</ul>
+						<ul>
+							<li><p class="text-color">Cell:</p></li>
+							<li><p>(+84)0964-618-000</p></li>
+						</ul>
+						<ul>
+							<li><p class="text-color">Email:</p></li>
+							<li><p>tuananh.bui311095@gmail.com</p></li>
+						</ul>
+
+						<ul class="social-links">
+							<li><a href="https://www.facebook.com/tuananh.trance" target="_blank" class="social-icon"> <i class="fab fa-2x	 fa-facebook"></i></a></li>
+							<li><a href="https://www.linkedin.com/in/tuananhbui311095/" target="_blank" class="social-icon"> <i class="fab fa-2x fa-linkedin"></i></a></li>
+							<li><a href="" class="social-icon"> <i class="fab fa-2x fa-github"></i></a></li>
+						</ul>
+
+					</div>
+					
+				</div>
+			</div>
+		</section>
+
+		<section id="home-box">
+			<div class="bao-vien box-grid">
+				<div class="box border-right">
+					<h3 class="text-lg text-color">Giải pháp CNTT</h3>
+					<p class="margin-top-sm">Cung cấp giải pháp CNTT cho doanh nghiệp của bạn:</p>
+					<ul>
+						<li><p>Xây dựng & vận hành hệ thống mạng, hệ thống server</p></li>
+						<li><p>Xây dựng hệ thống máy tính client cho doanh nghiệp</p></li>
+						<li><p>Hỗ trợ người dùng đầu cuối</p></li>
+					</ul>
+				</div>
+
+				<div class="box border-right">
+					<h3 class="text-lg text-color">Nhận diện thương hiệu</h3>
+					<p class="margin-top-sm">Tôi sẽ giúp bạn gây dựng bộ nhận diện thương hiệu cho doanh nghiệp của bạn: </p>
+					<ul>
+						<li><p>Website nhận diện thương hiệu, website bán hàng</p></li>
+
+						<li><p>Các trang mạng xã hội</p></li>
+						<li><p>Content marketing, SEO</p></li>
+					</ul>
+				</div>
+
+				<div class="box">
+					<h3 class="text-lg text-color">Sự hài lòng của bạn</h3>
+					<p class="margin-top-sm">Với phương châm làm việc dựa trên sự gắn kết phát triển bền vững, tôi luôn coi sự hài lòng của bạn là ưu tiên hàng đầu, xây dựng uy tín trên từng sản phẩm.</p>
+				</div>
+		</div>
+		</section>
+		<div class="clear"></div>
+		<section id="main-footer">
+			<div class="bao-vien">
+				<p>Copyright &copy; BuiAnh Webdesign 2020</p>
+			</div>
+		</section>
+	</body>
